@@ -1,0 +1,13 @@
+Data/
+output/
+*/checkpoints
+*/results
+*/datasets/list
+*/examples/dump/
+*/input/
+__pycache__
+*/__pycache__
+*/*/__pycache__
+*/*/*/__pycache__
+*.pyc
+examples/*_av.mp4

@@ -1,0 +1,17 @@
+ffmpeg-python
+opencv-python==4.2.0.34
+face_alignment
+scikit-learn
+scipy
+pydub
+pynormalize
+soundfile
+librosa
+pysptk
+pyworld
+resemblyzer
+visdom
+pillow
+dominate
+tensorflow-gpu==1.15.0
+dlib
