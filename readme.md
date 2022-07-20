@@ -2,7 +2,7 @@
 
 The program takes a face photo and a speech signal as inputs, and outputs an artistic talking video of portrait line drawings or portrait cartoon.
 
-<video src = "imgs/demo.mp4"></video>
+[![Watch the video](https://img.youtube.com/vi/qYjchof4IEE/maxresdefault.jpg)](https://youtube.com/watch?v=qYjchof4IEE)
 
 [[paper]](https://drive.google.com/file/d/14HOmhHQlcr-x2yRh_S7b-j6CZ2mmDt1E/view?usp=sharing)
 
