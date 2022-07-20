@@ -2,7 +2,7 @@
 
 The program takes a face photo and a speech signal as inputs, and outputs an artistic talking video of portrait line drawings or portrait cartoon.
 
-<video src='https://yiranran.github.io/images/SIG2022_demo.mp4'></video>
+<video src='https://user-images.githubusercontent.com/16771200/180014736-b604ba55-c51b-40e7-bb49-91a3c1c3e80c.mp4'></video>
 
 [[paper]](https://drive.google.com/file/d/14HOmhHQlcr-x2yRh_S7b-j6CZ2mmDt1E/view?usp=sharing)
 
