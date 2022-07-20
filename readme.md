@@ -8,12 +8,12 @@ The program takes a face photo and a speech signal as inputs, and outputs an art
 
 > **Animating Portrait Line Drawings from a Single Face Photo and a Speech Signal**
 >
-> [Ran Yi](https://yiranran.github.io)
-> [Zipeng Ye](https://qq775793759.github.io)
-> [Ruoyu Fan]()
-> [Yezhi Shu](https://scholar.google.com/citations?user=ItEyqMAAAAAJ&hl=en)
-> [Yong-Jin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm)
-> [Yu-Kun Lai](https://users.cs.cf.ac.uk/Yukun.Lai/)
+> [Ran Yi](https://yiranran.github.io), 
+> [Zipeng Ye](https://qq775193759.github.io), 
+> [Ruoyu Fan](), 
+> [Yezhi Shu](https://scholar.google.com/citations?user=ItEyqMAAAAAJ&hl=en), 
+> [Yong-Jin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm), 
+> [Yu-Kun Lai](https://users.cs.cf.ac.uk/Yukun.Lai/), 
 > [Paul Rosin](https://users.cs.cf.ac.uk/Paul.Rosin/)
 > 
 > SIGGRAPH 2022
