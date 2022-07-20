@@ -1,7 +1,9 @@
-## Code for "Animating Portrait Line Drawings from a Single Face Photo and a Speech Signal"
+## Code for "Animating Portrait Line Drawings from a Single Face Photo and a Speech Signal" (SIGGRAPH 22 conference proceedings)
 
 The program takes a face photo and a speech signal as inputs, and outputs an artistic talking video of portrait line drawings or portrait cartoon.
 
+[[demo video]](https://drive.google.com/file/d/1BRedYnn-uB8Wa5gD5vAzSB6hafA3VSce/view?usp=sharing)
+[[paper]](https://drive.google.com/file/d/14HOmhHQlcr-x2yRh_S7b-j6CZ2mmDt1E/view?usp=sharing)
 
 ### Prerequisites
 - Linux
