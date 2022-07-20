@@ -2,8 +2,26 @@
 
 The program takes a face photo and a speech signal as inputs, and outputs an artistic talking video of portrait line drawings or portrait cartoon.
 
-[[demo video]](https://drive.google.com/file/d/1BRedYnn-uB8Wa5gD5vAzSB6hafA3VSce/view?usp=sharing)
+<video src = "imgs/demo.mp4"></video>
+
 [[paper]](https://drive.google.com/file/d/14HOmhHQlcr-x2yRh_S7b-j6CZ2mmDt1E/view?usp=sharing)
+
+> **Animating Portrait Line Drawings from a Single Face Photo and a Speech Signal**
+>
+> [Ran Yi](https://yiranran.github.io)
+> [Zipeng Ye](https://qq775793759.github.io)
+> [Ruoyu Fan]()
+> [Yezhi Shu](https://scholar.google.com/citations?user=ItEyqMAAAAAJ&hl=en)
+> [Yong-Jin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm)
+> [Yu-Kun Lai](https://users.cs.cf.ac.uk/Yukun.Lai/)
+> [Paul Rosin](https://users.cs.cf.ac.uk/Paul.Rosin/)
+> 
+> SIGGRAPH 2022
+>
+> **Abstract** Animating a single face photo is an important research topic which receives considerable attention in computer vision and graphics. Yet line drawings for face portraits, which is a longstanding and popular art form, have not been explored much in this area. Simply concatenating a realistic talking face video generation model with a photo-to-drawing style transfer module suffers from severe inter-frame discontinuity issues. To address this new challenge, we propose a novel framework to generate artistic talking portrait-line-drawing video, given a single face photo and a speech signal. After predicting facial landmark movements from the input speech signal, we propose a novel GAN model to simultaneously handle domain transfer (from photo to drawing) and facial geometry change (according to the predicted facial landmarks). To address the inter-frame discontinuity issues, we propose two novel temporal coherence losses: one based on warping and the other based on a temporal coherence discriminator. Experiments show that our model produces high quality artistic talking portrait-line-drawing videos and outperforms baseline methods. We also show our method can be easily extended to other artistic styles and generate good results. The source code is available at https://github.com/AnimatePortrait/AnimatePortrait.
+>
+
+![img](imgs/teaser.jpeg)
 
 ### Prerequisites
 - Linux
